@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mastafa.
-- 👀 I’m interested in Machine Learning. As a Data Scientist at Microsoft, I help shape solutions to increase satisfaction across Microsoft products. As a teacher, I help understand algorithms and how we can use them in practical solutions. 
+- 👀 I’m interested in Machine Learning. As a Data Scientist at Microsoft, I help shape solutions to increase satisfaction across Microsoft products, currently focusing on Microsoft Copilot. As a teacher, I help understand NLP models and how we can use them in practical solutions. 
 - 🌱 I’m currently learning all sorts of stuff in Deep Learning and Statistics.
 - 💞️ I’m looking to collaborate on anything cutting edge! 
 - 📫 How to reach me: use my Medium and my Linkedin to reach out to me. 
