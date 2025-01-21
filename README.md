@@ -9,7 +9,7 @@
 📫 How to reach me: You can contact me via my Medium and LinkedIn profiles.
 
 ### Patents
-Here are some of my patents:
+Here are some of my patents and research contributions in AI:
 - **Method and system of intelligently providing responses for a user in the user's absence** (US Patent 11,418,463, 2022) [1](https://scholar.google.com/citations?user=jA54ZlUAAAAJ&hl=en)
 - **Machine-learning-model based name pronunciation** (US Patent 12,028,176, 2024) [1](https://scholar.google.com/citations?user=jA54ZlUAAAAJ&hl=en)
 - **Shared visual content filtering during virtual meetings** (US Patent 11,881,958, 2024) [1](https://scholar.google.com/citations?user=jA54ZlUAAAAJ&hl=en)
